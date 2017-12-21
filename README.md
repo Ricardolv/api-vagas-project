@@ -1,3 +1,3 @@
 # DJANGO REST: CRIANDO UMA API WEB
 
-CRUD de vagas com os recursos de \x76\x61\x6C\x69\x64\x61\xC3\xA7\xC3\xA3\x6F e \x70\x61\x67\x69\x6E\x61\xC3\xA7\xC3\xA3\x6F dos registros.
+CRUD de vagas com os recursos de valida\\U00E7\\U00E3o e pagina\\U00E7\\U00E3o dos registros.
